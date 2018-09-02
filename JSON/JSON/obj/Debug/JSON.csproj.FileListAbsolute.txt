@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\JSON\JSON\bin\Debug\JSON.exe.config
+C:\Users\user\source\repos\JSON\JSON\bin\Debug\JSON.exe
+C:\Users\user\source\repos\JSON\JSON\bin\Debug\JSON.pdb
+C:\Users\user\source\repos\JSON\JSON\obj\Debug\JSON.csprojAssemblyReference.cache
+C:\Users\user\source\repos\JSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JSON\JSON\obj\Debug\JSON.exe
+C:\Users\user\source\repos\JSON\JSON\obj\Debug\JSON.pdb
+C:\Users\user\source\repos\JSON\JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\JSON\JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\JSON\JSON\obj\Debug\JSON.csproj.CopyComplete
+C:\Users\user\source\repos\JSON\JSON\bin\Debug\System.Web.Helpers.dll
